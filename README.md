@@ -8,7 +8,7 @@ perform various algorithms on top of it.
 The project aims at performing some complex techniques and algorithms using the
 OpenCV library.
 
-in [(https://docs.google.com/presentation/d/1ZZr1MprzRldQK7jMQO7wU9HNfT7N2wRC/edit?usp=sharing&ouid=103900385293526721845&rtpof=true&sd=true](#Reference)
+* Reference [(https://docs.google.com/presentation/d/1ZZr1MprzRldQK7jMQO7wU9HNfT7N2wRC/edit?usp=sharing&ouid=103900385293526721845&rtpof=true&sd=true](#Reference)
 
 # Architecture 
 
