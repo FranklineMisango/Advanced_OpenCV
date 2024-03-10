@@ -15,8 +15,8 @@ Reference : ![]("https://docs.google.com/presentation/d/1ZZr1MprzRldQK7jMQO7wU9H
 ![]("img.png")
 
 ## Tech stack
- Language - Python
- Libraries - numpy, matplotlib, cv2(OpenCV)Approach
+* Language - Python
+* Libraries - numpy, matplotlib, cv2(OpenCV)Approach
 
 ## The Steps 
 
